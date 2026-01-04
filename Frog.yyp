@@ -23,6 +23,9 @@
   "name":"Frog",
   "resources":[
     {"id":{"name":"sIdle_Lvl1","path":"sprites/sIdle_Lvl1/sIdle_Lvl1.yy",},},
+    {"id":{"name":"sJump_Lvl1","path":"sprites/sJump_Lvl1/sJump_Lvl1.yy",},},
+    {"id":{"name":"sMove_Left_Lvl1","path":"sprites/sMove_Left_Lvl1/sMove_Left_Lvl1.yy",},},
+    {"id":{"name":"sMove_Right_Lvl1","path":"sprites/sMove_Right_Lvl1/sMove_Right_Lvl1.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",

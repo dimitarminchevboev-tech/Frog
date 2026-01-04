@@ -3,5 +3,9 @@
     {"name":"Sprites","order":1,"path":"folders/Sprites.yy",},
     {"name":"Level1","order":1,"path":"folders/Sprites/Level1.yy",},
   ],
-  "ResourceOrderSettings":[],
+  "ResourceOrderSettings":[
+    {"name":"sJump_Lvl1","order":1,"path":"sprites/sJump_Lvl1/sJump_Lvl1.yy",},
+    {"name":"sMove_Left_Lvl1","order":2,"path":"sprites/sMove_Left_Lvl1/sMove_Left_Lvl1.yy",},
+    {"name":"sMove_Right_Lvl1","order":3,"path":"sprites/sMove_Right_Lvl1/sMove_Right_Lvl1.yy",},
+  ],
 }
