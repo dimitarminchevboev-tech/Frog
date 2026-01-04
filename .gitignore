@@ -1,0 +1,8 @@
+# GameMaker generated files
+*.yyz
+*.yymps
+*.log
+
+# Cache / temp
+.cache/
+.local/
